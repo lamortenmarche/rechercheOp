@@ -1,7 +1,9 @@
+package rech_op;
+
 import java.util.*;
 import java.io.*;
 import java.nio.file.Files;
-
+/* /!\ parser à l'envers */
 public class InstanceProbleme {
     
     private int nbCentres; // I
